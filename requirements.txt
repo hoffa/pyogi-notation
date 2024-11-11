@@ -1,4 +1,4 @@
-music21==9.1.0
+music21==9.3.0
 svgwrite==1.4.3
 svglib==1.5.1
 pypdf==4.3.1
